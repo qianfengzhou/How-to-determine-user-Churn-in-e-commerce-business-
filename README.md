@@ -1,4 +1,4 @@
-# How-to-determine-user-Churn-in-e-commerce-business-
+# How-to-determine-user-Churn-in-e-commerce-business
 Churn_threshold
 Calculating churn rate is tricky because it has different meanings in different businesses. Generally speaking, churned customers are those who have stopped purchasing or engaging with your business. In contract-based businesses, identifying churned customers is easy because they stop their contracts or subscriptions, such as in telecommunications or video streaming services.
 
